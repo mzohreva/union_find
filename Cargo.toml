@@ -1,0 +1,7 @@
+[package]
+name = "union_find"
+version = "0.1.0"
+authors = ["Mohsen Zohrevandi <mohsen@home.mac>"]
+edition = "2018"
+
+[dependencies]
